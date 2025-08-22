@@ -1,1 +1,2 @@
-"# alt-school" 
+### All projects for AltShool Africa
+
